@@ -6,4 +6,5 @@ def func():
     print(random.random())
     print("fffff")
     print(random.random()*1000)
+    print("end")
     return 0
